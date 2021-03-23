@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-blog.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-blog.github.io/static/js/main.0670c150.chunk.js",
+    "main.js.map": "/my-blog.github.io/static/js/main.0670c150.chunk.js.map",
+    "runtime-main.js": "/my-blog.github.io/static/js/runtime-main.2dd61c83.js",
+    "runtime-main.js.map": "/my-blog.github.io/static/js/runtime-main.2dd61c83.js.map",
+    "static/js/2.279f070b.chunk.js": "/my-blog.github.io/static/js/2.279f070b.chunk.js",
+    "static/js/2.279f070b.chunk.js.map": "/my-blog.github.io/static/js/2.279f070b.chunk.js.map",
+    "static/js/3.a4e4efbe.chunk.js": "/my-blog.github.io/static/js/3.a4e4efbe.chunk.js",
+    "static/js/3.a4e4efbe.chunk.js.map": "/my-blog.github.io/static/js/3.a4e4efbe.chunk.js.map",
+    "index.html": "/my-blog.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-blog.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.279f070b.chunk.js.LICENSE.txt": "/my-blog.github.io/static/js/2.279f070b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-blog.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd61c83.js",
+    "static/js/2.279f070b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0670c150.chunk.js"
+  ]
+}
